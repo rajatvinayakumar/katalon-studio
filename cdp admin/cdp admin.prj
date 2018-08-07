@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>cdp admin</name>
+   <tag></tag>
+   <UUID>342d06cd-1e08-45f9-b29f-6036e6f6bae2</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
